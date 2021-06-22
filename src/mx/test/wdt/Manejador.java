@@ -9,7 +9,6 @@ import java.util.ArrayList;
  */
 public class Manejador {
 
-
 	private Functions functions = new Functions();
 
 	/**

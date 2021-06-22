@@ -2,11 +2,6 @@ package mx.test.wdt;
 
 import java.util.ArrayList;
 
-/**
- * Functions to util
- * @author anver
- *
- */
 public class Functions {
 	
 	/**

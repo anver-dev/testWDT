@@ -13,7 +13,11 @@ import javax.swing.JPanel;
 import javax.swing.JTextField;
 import javax.swing.JTextArea;
 import javax.swing.JScrollPane;
-
+/**
+ * Window
+ * @author anver
+ *
+ */
 public class Ventana extends JFrame {
 
 	private static final long serialVersionUID = 1L;

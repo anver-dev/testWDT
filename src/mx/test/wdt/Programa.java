@@ -7,9 +7,6 @@ package mx.test.wdt;
  */
 public class Programa {
 
-	/**
-	 * @param args
-	 */
 	public static void main(String[] args) {
 
 		Manejador manejador = new Manejador();
